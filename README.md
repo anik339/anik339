@@ -1,76 +1,75 @@
-# Hi, I'm Anik Chandra Dey 👋
+<h1 align="center">Hi, I'm Anik Dey 👋</h1>
 
-### Full Stack Web Developer in Progress | MERN Stack | AI Integration
+<p align="center">
+  <strong>Aspiring MERN Stack Developer</strong><br>
+  Learning by building • Writing clean, understandable code • Growing in public
+</p>
 
-I'm currently learning Full Stack Web Development through the Ostad 19th Batch course.
-
-I learn by building practical projects and continuously improving my development skills, problem-solving ability, and Git & GitHub workflow.
-
----
-
-## 🚀 About Me
-
-- 💻 Learning Full Stack Web Development
-- 🌐 Building responsive websites and practical projects
-- 📚 Currently progressing through the MERN Stack roadmap
-- 🔧 Practicing Git and GitHub collaboration
-- 🤖 Interested in AI-powered web applications
-- 🎯 Goal: Become a job-ready Full Stack Web Developer
+<p align="center">
+  <a href="https://github.com/anik339"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-anik339-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN"><img alt="MERN learning repository" src="https://img.shields.io/badge/Explore-My%20Learning%20Journey-0A66C2?style=flat-square&logo=github" /></a>
+  <img alt="Location: Bangladesh" src="https://img.shields.io/badge/Based%20in-Bangladesh-008751?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Current Skills
+### 👨‍💻 About Me
 
-### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Web Design
+I'm **Anik Dey**, an aspiring full-stack web developer from Bangladesh. I'm building my foundations in web development and documenting my progress toward the **MERN stack (MongoDB, Express.js, React, and Node.js)**.
 
-### Tools
-- Git
-- GitHub
-- VS Code
+- 🔭 **Current project:** [AI-Driven Full-Stack Web Developer with MERN](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
+- 🌱 **Current focus:** HTML, CSS, JavaScript, version control, and hands-on practice
+- 🧭 **Next milestones:** React, Node.js, Express.js, MongoDB, REST APIs, and deployment
+- 🎯 **Goal:** Build useful, responsive, maintainable full-stack applications
+- 🤝 **Interested in:** Learning with other developers, code reviews, and open-source contributions
+
+### 🛠️ Technologies & Tools
+
+**Practicing and strengthening my foundations**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
+</p>
+
+**On my MERN learning roadmap**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express.js, and MongoDB - learning roadmap" />
+</p>
+
+> The roadmap above shows what I'm working toward, not a claim of professional experience with every technology.
+
+### 📌 Featured Learning Repository
+
+**[AI-Driven Full-Stack Web Developer with MERN](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)**
+
+A public record of my journey from web development fundamentals toward full-stack application development. I'm using it to organize module-based exercises, strengthen my skills, and track what I learn.
+
+**Current progress:** Early learning modules (1–4) are the focus of my documented work. I will add more modules and completed projects as I build them.
+
+[View the repository →](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
+
+### 🚀 What I'm Working Toward
+
+- Build responsive, accessible user interfaces
+- Write well-structured JavaScript and React applications
+- Create REST APIs with Node.js and Express.js
+- Work with MongoDB and full-stack data flows
+- Practice Git workflows, documentation, testing, and deployment
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anik339&show_icons=true&hide_border=true&theme=transparent" alt="Anik Dey's GitHub activity statistics" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anik339?tab=repositories">Explore all my repositories →</a>
+</p>
 
 ---
 
-## 📚 Learning Roadmap
-
-HTML → CSS → Tailwind CSS → Responsive Web Design  
-↓  
-JavaScript → React.js  
-↓  
-Node.js → Express.js → MongoDB  
-↓  
-MERN Stack → AI Integration
-
----
-
-## 📂 Main Learning Repository
-
-### AI-Driven Full Stack Web Developer with MERN
-
-My main learning repository containing my coursework, assignments, practice work, projects, and progress throughout my Full Stack Web Development journey.
-
-🔗 [View My Learning Repository](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
-
----
-
-## 🎯 Current Focus
-
-- Responsive Web Design
-- Git & GitHub
-- JavaScript fundamentals
-- Building practical web projects
-
----
-
-## 🌱 Future Goals
-
-To build real-world, scalable web applications using the MERN stack and gradually integrate AI-powered features into modern web applications.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@anik339](https://github.com/anik339)
+<p align="center">
+  <strong>Consistent practice. Real projects. Continuous improvement.</strong><br>
+  Thanks for visiting my profile!
+</p>
