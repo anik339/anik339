@@ -55,7 +55,10 @@ My goal is to become a professional Full-Stack Developer capable of building mod
 ## 🚀 My Projects
 
 ### 📝 JavaScript Task Manager
-A practical task management application with localStorage, task filtering, and completion tracking.
+
+A responsive task management application built with HTML, CSS, and Vanilla JavaScript. Features task priorities, filtering, progress tracking, and localStorage.
+
+🌐 [Live Demo](https://anik339.github.io/javascript-task-manager/) | 💻 [Source Code](https://github.com/anik339/javascript-task-manager)
 
 ### 🔎 GitHub Profile Explorer
 A JavaScript application that retrieves public GitHub profile data using the GitHub API.
