@@ -1,75 +1,96 @@
-<h1 align="center">Hi, I'm Anik Dey 👋</h1>
 
-<p align="center">
-  <strong>Aspiring MERN Stack Developer</strong><br>
-  Learning by building • Writing clean, understandable code • Growing in public
-</p>
+# Hi there, I'm Anik! 👋
 
-<p align="center">
-  <a href="https://github.com/anik339"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-anik339-181717?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN"><img alt="MERN learning repository" src="https://img.shields.io/badge/Explore-My%20Learning%20Journey-0A66C2?style=flat-square&logo=github" /></a>
-  <img alt="Location: Bangladesh" src="https://img.shields.io/badge/Based%20in-Bangladesh-008751?style=flat-square" />
-</p>
+### 🚀 Aspiring Full-Stack MERN Developer | Exploring AI-Powered Web Development
+
+I'm a passionate web development learner focused on building practical projects, improving problem-solving skills, and writing clean, maintainable code.
+
+My goal is to become a professional Full-Stack Developer capable of building modern, scalable, and AI-powered web applications.
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Anik Dey**, an aspiring full-stack web developer from Bangladesh. I'm building my foundations in web development and documenting my progress toward the **MERN stack (MongoDB, Express.js, React, and Node.js)**.
-
-- 🔭 **Current project:** [AI-Driven Full-Stack Web Developer with MERN](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
-- 🌱 **Current focus:** HTML, CSS, JavaScript, version control, and hands-on practice
-- 🧭 **Next milestones:** React, Node.js, Express.js, MongoDB, REST APIs, and deployment
-- 🎯 **Goal:** Build useful, responsive, maintainable full-stack applications
-- 🤝 **Interested in:** Learning with other developers, code reviews, and open-source contributions
-
-### 🛠️ Technologies & Tools
-
-**Practicing and strengthening my foundations**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
-</p>
-
-**On my MERN learning roadmap**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express.js, and MongoDB - learning roadmap" />
-</p>
-
-> The roadmap above shows what I'm working toward, not a claim of professional experience with every technology.
-
-### 📌 Featured Learning Repository
-
-**[AI-Driven Full-Stack Web Developer with MERN](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)**
-
-A public record of my journey from web development fundamentals toward full-stack application development. I'm using it to organize module-based exercises, strengthen my skills, and track what I learn.
-
-**Current progress:** Early learning modules (1–4) are the focus of my documented work. I will add more modules and completed projects as I build them.
-
-[View the repository →](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
-
-### 🚀 What I'm Working Toward
-
-- Build responsive, accessible user interfaces
-- Write well-structured JavaScript and React applications
-- Create REST APIs with Node.js and Express.js
-- Work with MongoDB and full-stack data flows
-- Practice Git workflows, documentation, testing, and deployment
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anik339&show_icons=true&hide_border=true&theme=transparent" alt="Anik Dey's GitHub activity statistics" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anik339?tab=repositories">Explore all my repositories →</a>
-</p>
+- 🔭 Currently working on JavaScript projects
+- 🌱 Learning modern web development
+- 💻 Practicing HTML, CSS, Tailwind CSS & JavaScript
+- 🧠 Improving problem-solving and debugging skills
+- 🎯 Working towards Full-Stack MERN development
+- 🤖 Interested in AI integration
+- 📚 Learning by building real-world projects
 
 ---
 
-<p align="center">
-  <strong>Consistent practice. Real projects. Continuous improvement.</strong><br>
-  Thanks for visiting my profile!
-</p>
+## 🛠️ Technologies I'm Practicing
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- Asynchronous JavaScript & REST APIs
+- DOM Manipulation
+- Git & GitHub Best Practices
+- Responsive Web Development
+
+### 🎯 Next Learning Goals
+
+- React.js
+- Node.js & Express.js
+- MongoDB
+- Authentication & Security
+- Full-Stack MERN Applications
+- AI API Integration
+- Testing & Deployment
+
+---
+
+## 🚀 My Projects
+
+### 📝 JavaScript Task Manager
+A practical task management application with localStorage, task filtering, and completion tracking.
+
+### 🔎 GitHub Profile Explorer
+A JavaScript application that retrieves public GitHub profile data using the GitHub API.
+
+### 📂 Web Development Learning Repository
+
+Explore my assignments, exercises, JavaScript projects, and learning progress.
+
+[**View My Learning Repository**](https://github.com/anik339/AI-Driven-Full-Stack-Web-Developer-with-MERN)
+
+---
+
+## 🗺️ My Developer Roadmap
+
+- [x] HTML Fundamentals
+- [x] CSS Fundamentals
+- [x] Tailwind CSS Practice
+- [ ] Advanced JavaScript Mastery
+- [ ] React.js
+- [ ] Node.js & Express.js
+- [ ] MongoDB
+- [ ] Full-Stack MERN Projects
+- [ ] AI-Powered Web Applications
+- [ ] Professional Developer Portfolio
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/anik339)
+
+---
+
+### 💡 My Philosophy
+
+> Learn consistently. Build practically. Improve every day.
+
+⭐ Thanks for visiting my GitHub profile!
